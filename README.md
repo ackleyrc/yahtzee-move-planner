@@ -9,10 +9,10 @@ The 13 combinations a player can earn points for are divided between the upper a
 
 This project simulates a turn of Yahtzee and recommends which die to hold before re-rolling for the best chance of earning the most points. 
 
-![Example image of simulation output](images/Screen Shot 2016-10-03 at 4.17.30 PM.png)
-
 Simplifications: The simulation only considers re-rolling your hand once. The simulation only considers scores earned toward combinations on the upper scorecard. The simulation does not exclude combinations that have already been satisfied. 
 
 Generalizations: The simulation will consider die with any arbitrary number of sides. The simulation will consider any arbitrary number of dice. 
 
 Note: Large number of sides and/or large number of dice in a hand can lead to long wait times while the program iterates through so many of permutations.
+
+![Example image of simulation output](images/Screen Shot 2016-10-03 at 4.17.30 PM.png)
