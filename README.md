@@ -13,6 +13,6 @@ Simplifications: The simulation only considers re-rolling your hand once. The si
 
 Generalizations: The simulation will consider die with any arbitrary number of sides. The simulation will consider any arbitrary number of dice. 
 
-Note: Large number of sides and/or large number of dice in a hand can lead to long wait times while the program iterates through so many of permutations.
+Note: Large numbers of sides and/or large numbers of dice in a hand can lead to long wait times while the program iterates through all permutations.
 
 ![Example image of simulation output](images/Screen Shot 2016-10-03 at 4.17.30 PM.png)
